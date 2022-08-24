@@ -1,0 +1,12 @@
+C:\Users\Santa\source\repos\StackOverflowClone\StackOverflowClone.ViewModels\bin\Debug\StackOverflowClone.ViewModels.dll
+C:\Users\Santa\source\repos\StackOverflowClone\StackOverflowClone.ViewModels\bin\Debug\StackOverflowClone.ViewModels.pdb
+C:\Users\Santa\source\repos\StackOverflowClone\StackOverflowClone.ViewModels\obj\Debug\StackOverflowClone.ViewModels.csproj.AssemblyReference.cache
+C:\Users\Santa\source\repos\StackOverflowClone\StackOverflowClone.ViewModels\obj\Debug\StackOverflowClone.ViewModels.csproj.CoreCompileInputs.cache
+C:\Users\Santa\source\repos\StackOverflowClone\StackOverflowClone.ViewModels\obj\Debug\StackOverflowClone.ViewModels.dll
+C:\Users\Santa\source\repos\StackOverflowClone\StackOverflowClone.ViewModels\obj\Debug\StackOverflowClone.ViewModels.pdb
+C:\Users\Santa\source\repos\StackOverflowClone\StackOverflowClone.ViewModels\bin\Debug\StackOverflowClone.ViewModels.dll.config
+C:\Users\Santa\source\repos\StackOverflowClone\StackOverflowClone.ViewModels\bin\Debug\EntityFramework.dll
+C:\Users\Santa\source\repos\StackOverflowClone\StackOverflowClone.ViewModels\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Santa\source\repos\StackOverflowClone\StackOverflowClone.ViewModels\bin\Debug\EntityFramework.xml
+C:\Users\Santa\source\repos\StackOverflowClone\StackOverflowClone.ViewModels\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Santa\source\repos\StackOverflowClone\StackOverflowClone.ViewModels\obj\Debug\StackOverflowClone.ViewModels.csproj.CopyComplete

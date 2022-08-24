@@ -1,0 +1,11 @@
+C:\Users\Santa\source\repos\StackOverflowClone\StackOverflowClone.DomainModels\bin\Debug\StackOverflowClone.DomainModels.dll.config
+C:\Users\Santa\source\repos\StackOverflowClone\StackOverflowClone.DomainModels\bin\Debug\StackOverflowClone.DomainModels.dll
+C:\Users\Santa\source\repos\StackOverflowClone\StackOverflowClone.DomainModels\bin\Debug\StackOverflowClone.DomainModels.pdb
+C:\Users\Santa\source\repos\StackOverflowClone\StackOverflowClone.DomainModels\bin\Debug\EntityFramework.dll
+C:\Users\Santa\source\repos\StackOverflowClone\StackOverflowClone.DomainModels\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Santa\source\repos\StackOverflowClone\StackOverflowClone.DomainModels\bin\Debug\EntityFramework.xml
+C:\Users\Santa\source\repos\StackOverflowClone\StackOverflowClone.DomainModels\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Santa\source\repos\StackOverflowClone\StackOverflowClone.DomainModels\obj\Debug\StackOverflowClone.DomainModels.csproj.CoreCompileInputs.cache
+C:\Users\Santa\source\repos\StackOverflowClone\StackOverflowClone.DomainModels\obj\Debug\StackOverflowClone.DomainModels.csproj.CopyComplete
+C:\Users\Santa\source\repos\StackOverflowClone\StackOverflowClone.DomainModels\obj\Debug\StackOverflowClone.DomainModels.dll
+C:\Users\Santa\source\repos\StackOverflowClone\StackOverflowClone.DomainModels\obj\Debug\StackOverflowClone.DomainModels.pdb

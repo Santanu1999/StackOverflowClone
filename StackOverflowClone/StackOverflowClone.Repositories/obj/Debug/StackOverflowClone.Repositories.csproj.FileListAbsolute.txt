@@ -1,0 +1,15 @@
+C:\Users\Santa\source\repos\StackOverflowClone\StackOverflowClone.Repositories\bin\Debug\StackOverflowClone.Repositories.dll.config
+C:\Users\Santa\source\repos\StackOverflowClone\StackOverflowClone.Repositories\bin\Debug\StackOverflowClone.Repositories.dll
+C:\Users\Santa\source\repos\StackOverflowClone\StackOverflowClone.Repositories\bin\Debug\StackOverflowClone.Repositories.pdb
+C:\Users\Santa\source\repos\StackOverflowClone\StackOverflowClone.Repositories\bin\Debug\EntityFramework.dll
+C:\Users\Santa\source\repos\StackOverflowClone\StackOverflowClone.Repositories\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Santa\source\repos\StackOverflowClone\StackOverflowClone.Repositories\bin\Debug\StackOverflowClone.DomainModels.dll
+C:\Users\Santa\source\repos\StackOverflowClone\StackOverflowClone.Repositories\bin\Debug\StackOverflowClone.DomainModels.pdb
+C:\Users\Santa\source\repos\StackOverflowClone\StackOverflowClone.Repositories\bin\Debug\StackOverflowClone.DomainModels.dll.config
+C:\Users\Santa\source\repos\StackOverflowClone\StackOverflowClone.Repositories\bin\Debug\EntityFramework.xml
+C:\Users\Santa\source\repos\StackOverflowClone\StackOverflowClone.Repositories\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Santa\source\repos\StackOverflowClone\StackOverflowClone.Repositories\obj\Debug\StackOverflowClone.Repositories.csproj.AssemblyReference.cache
+C:\Users\Santa\source\repos\StackOverflowClone\StackOverflowClone.Repositories\obj\Debug\StackOverflowClone.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\Santa\source\repos\StackOverflowClone\StackOverflowClone.Repositories\obj\Debug\StackOverflowClone.Repositories.csproj.CopyComplete
+C:\Users\Santa\source\repos\StackOverflowClone\StackOverflowClone.Repositories\obj\Debug\StackOverflowClone.Repositories.dll
+C:\Users\Santa\source\repos\StackOverflowClone\StackOverflowClone.Repositories\obj\Debug\StackOverflowClone.Repositories.pdb
